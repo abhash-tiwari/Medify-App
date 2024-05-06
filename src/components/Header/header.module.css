@@ -1,0 +1,11 @@
+.header{
+ background-color: skyblue;
+ margin: 0px;
+ padding: 8px;
+/* max-height: 40px; */
+ /* overflow: hidden;
+  word-wrap: break-word;  */
+  display: flex;
+  justify-content: center;
+
+}
